@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruce Hou, who come from HIT
+- 👋 Hi, I’m Bruce Hou
 - 👀 I’m interested in AI and robot control technology
 - 🌱 I’m currently learning robotics and artificial intelligence in my university.
 - 💞️ I’m looking to collaborate on ...
